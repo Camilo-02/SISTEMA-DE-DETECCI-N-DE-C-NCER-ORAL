@@ -193,3 +193,8 @@ Normal	88.0	90.0	89.0	25
 OSCC	91.7	88.0	89.8	24
 Exactitud	–	–	89.8	49
 Promedio macro	89.9	89.0	89.4	49
+
+Integrantes: 
+-Diego Armando Penagos
+-Sergio Ramon Falla
+-Camilo Andres Chavarro
